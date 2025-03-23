@@ -1,0 +1,7 @@
+root = true
+
+[*.{py,md}]
+end_of_line = lf
+charset = utf-8
+indent_style = space
+trim_trailing_whitespace = true
