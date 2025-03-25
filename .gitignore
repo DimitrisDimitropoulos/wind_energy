@@ -129,3 +129,5 @@ dmypy.json
 build/
 *.pdf
 !/logo/pyro.pdf
+
+bem/

@@ -1,0 +1,21 @@
+-- AERO input file for RWT5 blade
+ 5.00   ! VELHUB
+1.225   ! AIRDEN
+340.0   ! SSPEED
+
+ 3      ! NBLADE
+ 1.7777 ! OMEGA (rad/s)
+ 0.0000 ! Collective Pitch
+ 0.0000 ! RROOT
+9.00000 ! RAERO 
+45.0000 ! RTIP  
+30      ! NSTRIP
+1       ! ITIPLOS 
+0       ! IHUBLOS  
+0.1     ! a
+0.01    ! a'
+
+1 "geomb.inp" "profilb.inp"
+2 "geomb.inp" "profilb.inp"
+3 "geomb.inp" "profilb.inp"
+

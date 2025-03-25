@@ -1,0 +1,13 @@
+-- Input geometry for 5MW Reference wind turbine
+10      ! NSPANB
+   r          profil 
+ 0.000      "foil_100"
+ 1.974      "foil_100"
+ 5.600      "foil_060"
+ 6.711      "foil_048"
+ 13.816     "foil_030"
+ 16.184     "foil_027"
+ 20.921     "foil_024"
+ 25.658     "foil_021"
+ 43.816     "foil_018"
+ 50.000     "foil_018"
